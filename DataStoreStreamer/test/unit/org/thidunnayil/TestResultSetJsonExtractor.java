@@ -8,7 +8,7 @@ public class TestResultSetJsonExtractor {
 
 	@Test
 	public void testResultSetJsonExtractor() {
-		//todo 
+		//todo add test for Column Visitor
 		fail("Not yet implemented");
 	}
 
