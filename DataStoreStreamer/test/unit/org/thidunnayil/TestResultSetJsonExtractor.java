@@ -7,7 +7,7 @@ import org.junit.Test;
 public class TestResultSetJsonExtractor {
 
 	@Test
-	public void test() {
+	public void testResultSetJsonExtractor() {
 		fail("Not yet implemented");
 	}
 
